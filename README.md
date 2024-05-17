@@ -15,6 +15,7 @@ region: Region where the customer lives.
 charges: Medical charges billed by the insurance.
 
 **Exploratory Data Analysis**
+
 In the EDA phase, we will:
 * Visualize distributions of individual features.
 * Explore relationships between features and the target variable (charges).
@@ -34,6 +35,7 @@ Creating interaction terms or polynomial features if they improve the model.
 
 Modeling
 In the modeling phase:
+
 Split the data into training and testing sets.
 Train a linear regression model on the training data.
 Evaluate the model's performance on the test data using metrics like Mean Absolute Error (MAE) and R-squared.
